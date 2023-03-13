@@ -13,7 +13,8 @@ class FacultyDetail
   String imageUrl;
 
   FacultyDetail(
-      {required this.Name,
+      {
+        required this.Name,
       required this.af,
         required this.email,
         required this.ri,
